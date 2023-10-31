@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "src",
+			"path": "../../Downloads/auth-react-game-main/auth-react-game-main/src"
+		},
+		{
+			"name": "auth-react-game",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

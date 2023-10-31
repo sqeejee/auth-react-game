@@ -1,5 +1,6 @@
-import firebase from 'firebase/compat/app';
-import 'firebase/compat/auth';
+import firebase from 'firebase/app';
+import 'firebase/auth'; // Add other Firebase services you need
+
 //import { firebaseConfig } from './firebase.config';
 
 console.log(process.env.REACT_APP_FIREBASE_API_KEY);
