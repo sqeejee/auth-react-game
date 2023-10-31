@@ -1,0 +1,13 @@
+/* game.css */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+  }
+  
+  .game-canvas {
+    display: block;
+    background-color: #ffffff; /* Set background color for the canvas if needed */
+  }
+  
